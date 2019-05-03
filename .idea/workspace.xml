@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0def79b3-351f-46f0-a387-f228dad005ff" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/ALPG101.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ALPG101.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="0def79b3-351f-46f0-a387-f228dad005ff" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,10 +14,19 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/EstruturasDeRepeticao-020519/ex005.py">
+        <entry file="file://$PROJECT_DIR$/EstruturasDeRepeticao-230419/ex005.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="357">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/EstruturasDeRepeticao-230419/ex003.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -35,6 +41,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="celsopa &lt;celsopa@msn.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
@@ -63,12 +74,16 @@
         <option value="$PROJECT_DIR$/EstruturasDeRepeticao-160419/Aula-160419-H.py" />
         <option value="$PROJECT_DIR$/EstruturasDeRepeticao-160419/Aula-160419-I.py" />
         <option value="$PROJECT_DIR$/EstruturasDeRepeticao-160419/Aula-160419-J.py" />
-        <option value="$PROJECT_DIR$/EstruturasDeRepeticao-230419/1.py" />
         <option value="$PROJECT_DIR$/EstruturasDeRepeticao-020519/ex001.py" />
         <option value="$PROJECT_DIR$/EstruturasDeRepeticao-020519/ex002.py" />
         <option value="$PROJECT_DIR$/EstruturasDeRepeticao-020519/ex003.py" />
         <option value="$PROJECT_DIR$/EstruturasDeRepeticao-020519/ex004.py" />
         <option value="$PROJECT_DIR$/EstruturasDeRepeticao-020519/ex005.py" />
+        <option value="$PROJECT_DIR$/EstruturasDeRepeticao-230419/1.py" />
+        <option value="$PROJECT_DIR$/EstruturasDeRepeticao-230419/ex002.py" />
+        <option value="$PROJECT_DIR$/EstruturasDeRepeticao-230419/ex003.py" />
+        <option value="$PROJECT_DIR$/EstruturasDeRepeticao-230419/ex004.py" />
+        <option value="$PROJECT_DIR$/EstruturasDeRepeticao-230419/ex005.py" />
       </list>
     </option>
   </component>
@@ -120,7 +135,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$APPLICATION_HOME_DIR$/portuguese-brazil.dic" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/EstruturasDeRepeticao-230419" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.spelling" />
   </component>
@@ -130,6 +145,7 @@
       <recent name="D:\PycharmProjects\ALPG101" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\PycharmProjects\ALPG101\EstruturasDeRepeticao-230419" />
       <recent name="D:\PycharmProjects\ALPG101\EstruturasDeRepeticao-020519" />
       <recent name="D:\PycharmProjects\ALPG101\EstruturasDeRepeticao-160419" />
       <recent name="D:\PycharmProjects\ALPG101" />
@@ -148,7 +164,7 @@
     </option>
   </component>
   <component name="RunManager" selected="Python.ex005">
-    <configuration name="Aula-160419-G" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ALPG101" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -156,12 +172,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/EstruturasDeRepeticao-160419" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/EstruturasDeRepeticao-230419" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EstruturasDeRepeticao-160419/Aula-160419-G.py" />
+      <option name="SCRIPT_NAME" value="D:\PycharmProjects\ALPG101\EstruturasDeRepeticao-230419\ex001.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -178,12 +194,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/EstruturasDeRepeticao-020519" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/EstruturasDeRepeticao-230419" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EstruturasDeRepeticao-020519/ex002.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EstruturasDeRepeticao-230419/ex002.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -200,12 +216,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/EstruturasDeRepeticao-020519" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/EstruturasDeRepeticao-230419" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EstruturasDeRepeticao-020519/ex003.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EstruturasDeRepeticao-230419/ex003.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -222,12 +238,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/EstruturasDeRepeticao-020519" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/EstruturasDeRepeticao-230419" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EstruturasDeRepeticao-020519/ex004.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EstruturasDeRepeticao-230419/ex004.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -244,12 +260,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/EstruturasDeRepeticao-020519" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/EstruturasDeRepeticao-230419" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EstruturasDeRepeticao-020519/ex005.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EstruturasDeRepeticao-230419/ex005.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -263,8 +279,8 @@
         <item itemvalue="Python.ex005" />
         <item itemvalue="Python.ex004" />
         <item itemvalue="Python.ex003" />
-        <item itemvalue="Python.Aula-160419-G" />
         <item itemvalue="Python.ex002" />
+        <item itemvalue="Python.1" />
       </list>
     </recent_temporary>
   </component>
@@ -280,12 +296,20 @@
       <option name="presentableId" value="Default" />
       <updated>1554851497470</updated>
       <workItem from="1556252638621" duration="548000" />
-      <workItem from="1556902269418" duration="3096000" />
+      <workItem from="1556902269418" duration="5253000" />
     </task>
+    <task id="LOCAL-00001" summary="Estruturas de repetição. FOR...IN">
+      <created>1556905478414</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1556905478414</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3644000" />
+    <option name="totallyTimeSpent" value="5801000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -317,13 +341,18 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Estruturas de repetição. FOR...IN" />
+    <option name="LAST_COMMIT_MESSAGE" value="Estruturas de repetição. FOR...IN" />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/ALPG101$ex005.coverage" NAME="ex005 Coverage Results" MODIFIED="1556905381980" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EstruturasDeRepeticao-020519" />
-    <SUITE FILE_PATH="coverage/ALPG101$ex003.coverage" NAME="ex003 Coverage Results" MODIFIED="1556904866856" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EstruturasDeRepeticao-020519" />
-    <SUITE FILE_PATH="coverage/ALPG101$ex001.coverage" NAME="ex001 Coverage Results" MODIFIED="1556903200864" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EstruturasDeRepeticao-020519" />
+    <SUITE FILE_PATH="coverage/ALPG101$ex005.coverage" NAME="ex005 Coverage Results" MODIFIED="1556907864934" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EstruturasDeRepeticao-230419" />
+    <SUITE FILE_PATH="coverage/ALPG101$ex003.coverage" NAME="ex003 Coverage Results" MODIFIED="1556906986284" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EstruturasDeRepeticao-230419" />
+    <SUITE FILE_PATH="coverage/ALPG101$ex001.coverage" NAME="ex001 Coverage Results" MODIFIED="1556905490550" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EstruturasDeRepeticao-020519" />
+    <SUITE FILE_PATH="coverage/ALPG101$1.coverage" NAME="1 Coverage Results" MODIFIED="1556906510084" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EstruturasDeRepeticao-230419" />
     <SUITE FILE_PATH="coverage/ALPG101$Aula_160419_G.coverage" NAME="Aula-160419-G Coverage Results" MODIFIED="1556904683614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EstruturasDeRepeticao-160419" />
-    <SUITE FILE_PATH="coverage/ALPG101$ex002.coverage" NAME="ex002 Coverage Results" MODIFIED="1556904059777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EstruturasDeRepeticao-020519" />
-    <SUITE FILE_PATH="coverage/ALPG101$ex004.coverage" NAME="ex004 Coverage Results" MODIFIED="1556905042643" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EstruturasDeRepeticao-020519" />
+    <SUITE FILE_PATH="coverage/ALPG101$ex002.coverage" NAME="ex002 Coverage Results" MODIFIED="1556906761397" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EstruturasDeRepeticao-230419" />
+    <SUITE FILE_PATH="coverage/ALPG101$ex004.coverage" NAME="ex004 Coverage Results" MODIFIED="1556907316236" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EstruturasDeRepeticao-230419" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/EstruturasCondicionais-090419/Aula-090419-A.py">
@@ -441,23 +470,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/EstruturasDeRepeticao-230419/1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="3" column="8" lean-forward="true" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_HOME_DIR$/portuguese-brazil.dic">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2734567" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/EstruturasDeRepeticao-020519/ex001.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" column="37" lean-forward="true" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/EstruturasDeRepeticao-020519/ex002.py">
@@ -527,6 +542,48 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EstruturasDeRepeticao-020519/ex001.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="37" lean-forward="true" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EstruturasDeRepeticao-230419/ex001.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EstruturasDeRepeticao-230419/ex002.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EstruturasDeRepeticao-230419/ex004.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EstruturasDeRepeticao-230419/ex003.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EstruturasDeRepeticao-230419/ex005.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
