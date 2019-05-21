@@ -14,17 +14,7 @@
     <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/EstruturasDeRepeticao-070519/Ex001 - Hotel.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
-              <caret line="18" column="15" selection-start-line="18" selection-start-column="15" selection-end-line="18" selection-end-column="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -79,6 +69,8 @@
         <option value="$PROJECT_DIR$/EstruturasDeRepeticao-230419/ex005.py" />
         <option value="$PROJECT_DIR$/EstruturasDeRepeticao-070519/teste.py" />
         <option value="$PROJECT_DIR$/EstruturasDeRepeticao-070519/Ex001 - Hotel.py" />
+        <option value="$PROJECT_DIR$/Vetores(lista)-090519/ex002.py" />
+        <option value="$PROJECT_DIR$/Vetores(lista)-090519/ex001.py" />
       </list>
     </option>
   </component>
@@ -103,7 +95,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -114,30 +105,32 @@
             <path>
               <item name="ALPG101" type="b2602c69:ProjectViewProjectNode" />
               <item name="ALPG101" type="462c0819:PsiDirectoryNode" />
-              <item name="EstruturasDeRepeticao-070519" type="462c0819:PsiDirectoryNode" />
+              <item name="Vetores(lista)-090519" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Vetores(lista)-090519" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.spelling" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\PycharmProjects\ALPG101\EstruturasCondicionais-090419" />
-      <recent name="D:\PycharmProjects\ALPG101" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\PycharmProjects\ALPG101\Vetores(lista)-090519" />
       <recent name="D:\PycharmProjects\ALPG101\EstruturasDeRepeticao-230419" />
       <recent name="D:\PycharmProjects\ALPG101\EstruturasDeRepeticao-020519" />
       <recent name="D:\PycharmProjects\ALPG101\EstruturasDeRepeticao-160419" />
+      <recent name="D:\PycharmProjects\ALPG101" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\PycharmProjects\ALPG101\EstruturasCondicionais-090419" />
       <recent name="D:\PycharmProjects\ALPG101" />
     </key>
   </component>
@@ -153,7 +146,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Ex001 - Hotel">
+  <component name="RunManager" selected="Python.ex001">
     <configuration name="Ex001 - Hotel" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ALPG101" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -176,7 +169,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex003" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ex001" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ALPG101" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -184,12 +177,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/EstruturasDeRepeticao-230419" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Vetores(lista)-090519" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EstruturasDeRepeticao-230419/ex003.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Vetores(lista)-090519/ex001.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -198,7 +191,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex004" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ex002" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ALPG101" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -206,12 +199,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/EstruturasDeRepeticao-230419" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Vetores(lista)-090519" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EstruturasDeRepeticao-230419/ex004.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Vetores(lista)-090519/ex002.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -266,11 +259,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ex001" />
+        <item itemvalue="Python.ex002" />
         <item itemvalue="Python.Ex001 - Hotel" />
         <item itemvalue="Python.teste" />
         <item itemvalue="Python.ex005" />
-        <item itemvalue="Python.ex004" />
-        <item itemvalue="Python.ex003" />
       </list>
     </recent_temporary>
   </component>
@@ -288,7 +281,11 @@
       <workItem from="1556252638621" duration="548000" />
       <workItem from="1556902269418" duration="5610000" />
       <workItem from="1556971447839" duration="159000" />
-      <workItem from="1557267539524" duration="2689000" />
+      <workItem from="1557267539524" duration="3472000" />
+      <workItem from="1558093116241" duration="860000" />
+      <workItem from="1558094131386" duration="2026000" />
+      <workItem from="1558099800385" duration="17000" />
+      <workItem from="1558475881467" duration="719000" />
     </task>
     <task id="LOCAL-00001" summary="Estruturas de repetição. FOR...IN">
       <created>1556905478414</created>
@@ -308,13 +305,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9006000" />
+    <option name="totallyTimeSpent" value="13411000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1930295" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20375335" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -325,7 +321,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.329429" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.5124451" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.5116959" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
@@ -349,10 +345,10 @@
     <SUITE FILE_PATH="coverage/ALPG101$ex005.coverage" NAME="ex005 Coverage Results" MODIFIED="1556907864934" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EstruturasDeRepeticao-230419" />
     <SUITE FILE_PATH="coverage/ALPG101$Ex001___Hotel.coverage" NAME="Ex001 - Hotel Coverage Results" MODIFIED="1557270237909" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EstruturasDeRepeticao-070519" />
     <SUITE FILE_PATH="coverage/ALPG101$ex003.coverage" NAME="ex003 Coverage Results" MODIFIED="1556906986284" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EstruturasDeRepeticao-230419" />
-    <SUITE FILE_PATH="coverage/ALPG101$ex001.coverage" NAME="ex001 Coverage Results" MODIFIED="1556905490550" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EstruturasDeRepeticao-020519" />
     <SUITE FILE_PATH="coverage/ALPG101$1.coverage" NAME="1 Coverage Results" MODIFIED="1556906510084" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EstruturasDeRepeticao-230419" />
+    <SUITE FILE_PATH="coverage/ALPG101$ex001.coverage" NAME="ex001 Coverage Results" MODIFIED="1558478274624" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Vetores(lista)-090519" />
     <SUITE FILE_PATH="coverage/ALPG101$Aula_160419_G.coverage" NAME="Aula-160419-G Coverage Results" MODIFIED="1556904683614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EstruturasDeRepeticao-160419" />
-    <SUITE FILE_PATH="coverage/ALPG101$ex002.coverage" NAME="ex002 Coverage Results" MODIFIED="1556906761397" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EstruturasDeRepeticao-230419" />
+    <SUITE FILE_PATH="coverage/ALPG101$ex002.coverage" NAME="ex002 Coverage Results" MODIFIED="1558093880580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Vetores(lista)-090519" />
     <SUITE FILE_PATH="coverage/ALPG101$ex004.coverage" NAME="ex004 Coverage Results" MODIFIED="1556907316236" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EstruturasDeRepeticao-230419" />
     <SUITE FILE_PATH="coverage/ALPG101$teste.coverage" NAME="teste Coverage Results" MODIFIED="1557268469459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EstruturasDeRepeticao-070519" />
   </component>
@@ -589,17 +585,25 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/EstruturasDeRepeticao-070519/teste.py">
+    <entry file="file://$PROJECT_DIR$/EstruturasDeRepeticao-070519/teste.py" />
+    <entry file="file://$PROJECT_DIR$/EstruturasDeRepeticao-070519/Ex001 - Hotel.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="4" lean-forward="true" selection-start-column="4" selection-end-column="5" />
+        <state relative-caret-position="300">
+          <caret line="16" column="34" lean-forward="true" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/EstruturasDeRepeticao-070519/Ex001 - Hotel.py">
+    <entry file="file://$PROJECT_DIR$/Vetores(lista)-090519/ex002.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="18" column="15" selection-start-line="18" selection-start-column="15" selection-end-line="18" selection-end-column="15" />
+        <state relative-caret-position="105">
+          <caret line="5" column="21" lean-forward="true" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vetores(lista)-090519/ex001.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
         </state>
       </provider>
     </entry>
